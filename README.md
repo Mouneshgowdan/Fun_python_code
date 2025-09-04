@@ -1,2 +1,21 @@
-# python_code
-sample python program enjoy coding while learning. Here are some cool little programs you can try 
+# 🎉 Fun Python Programs
+
+This is a collection of small and fun Python programs you can run directly in your terminal.  
+It includes games, art, and simple chatbots to enjoy coding while learning. 🚀
+
+---
+
+## ✨ Features
+- ❤️ Draw a Heart (Math + Matplotlib)
+- 🎲 Roll a Dice
+- 🪙 Flip a Coin
+- 🤖 Silly Chatbot
+- 🐍 Snake Print
+- 🎶 Beep Sound (Windows only)
+
+---
+
+## ▶️ How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Mouneshgowdan/python_code.git
