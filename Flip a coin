@@ -1,4 +1,4 @@
 import random
 
-dice = random.randint(1, 6)
-print(f"🎲 You rolled: {dice}")
+coin = random.choice(["Heads", "Tails"])
+print("🪙 Coin Flip Result:", coin)
