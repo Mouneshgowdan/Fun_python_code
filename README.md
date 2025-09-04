@@ -18,4 +18,4 @@ It includes games, art, and simple chatbots to enjoy coding while learning. 🚀
 ## ▶️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mouneshgowdan/python_code.git
+   https://github.com/Mouneshgowdan/Fun_python_code.git
