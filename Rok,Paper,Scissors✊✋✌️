@@ -1,1 +1,19 @@
+import random
+
+def magic_8_ball():
+    responses = [
+        "Yes ✅", "No ❌", "Maybe 🤔", "Definitely! 🎉",
+        "Ask again later 🔮", "I don’t think so 😢",
+        "Absolutely 💯", "Not sure, try again 🤷"
+    ]
+
+    print("🎱 Welcome to the Magic 8-Ball!")
+    while True:
+        question = input("Ask me anything (or type quit): ")
+        if question.lower() == "quit":
+            print("Goodbye 👋")
+            break
+        print("🔮", random.choice(responses))
+
+magic_8_ball()
 
