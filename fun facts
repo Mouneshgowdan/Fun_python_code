@@ -1,1 +1,14 @@
+import random
 
+fun_facts = [
+    "Bananas are berries, but strawberries aren’t! 🍌🍓",
+    "A group of flamingos is called a 'flamboyance'. 🦩",
+    "Octopuses have three hearts. ❤️❤️❤️",
+    "Sharks existed before trees did! 🌳🦈",
+    "Honey never spoils – 3000-year-old honey is still edible. 🍯",
+    "Sloths can hold their breath longer than dolphins. 🦥🐬",
+    "Wombat poop is cube-shaped. 🐾",
+]
+
+print("Here’s your fun fact of the day:\n")
+print(random.choice(fun_facts))
