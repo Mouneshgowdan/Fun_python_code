@@ -11,7 +11,6 @@ It includes games, art, and simple chatbots to enjoy coding while learning. 🚀
 - 🪙 Flip a Coin
 - 🤖 Silly Chatbot
 - 🐍 Snake Print
-- 🎶 Beep Sound (Windows only)
 -  🎱Magic 8-Ball
 -  ✊✋✌️Rock, Paper, Scissors 
 -  🎲Number Guessing Game
