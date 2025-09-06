@@ -1,17 +1,1 @@
-import random
-
-def magic_8_ball():
-    responses = [
-        "Yes ✅", "No ❌", "Maybe 🤔", "Definitely! 🎉",
-        "Ask again later 🔮", "Not sure 🤷"
-    ]
-
-    while True:
-        question = input("Ask me anything (or quit): ")
-        if question.lower() == "quit":
-            break
-        print("🔮", random.choice(responses))
-
-if __name__ == "__main__":
-    magic_8_ball()
 
