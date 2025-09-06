@@ -13,9 +13,9 @@ def typing_speed_test():
     end = time.time()
 
     if user_input == word:
-        print(f"✅ Correct! You took {round(end - start, 2)} seconds.")
+        print(f" Correct! You took {round(end - start, 2)} seconds.")
     else:
-        print("❌ Wrong word! Try again.")
+        print(" Wrong word! Try again.")
 
 typing_speed_test()
 
